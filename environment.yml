@@ -1,4 +1,4 @@
-  name: heroku-jupyter
+name: heroku-jupyter
 dependencies:
   # bind notebook version (compatibility to pgcontents)
   - python=3.7
